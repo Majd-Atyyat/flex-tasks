@@ -1,0 +1,23 @@
+.container{
+    height: 100vh;
+    display: flex;
+   
+}
+.box{
+    width: 50%;
+    color: white;
+    
+    
+}
+.orange{
+background-color: orange;
+
+}
+.blue{
+background-color: blue;
+}
+h1{
+margin-top: 50vh;
+text-align: center;
+
+}

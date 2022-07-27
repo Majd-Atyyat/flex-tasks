@@ -1,0 +1,54 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    
+    align-content: flex-start;
+
+    border: 10px solid goldenrod;
+    width:40vw;
+    height:30vh;
+    color: white;
+    
+  
+}
+.box{
+    height:10vh;
+    width: 10vw;
+    
+  
+    
+  
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.purple{
+    background-color: purple;
+}
+.black{
+    background-color: black;
+}
+.yellow{
+    background-color: yellow;
+}
+.orange{
+    background-color: orange;
+}
+.red{
+    background-color: red;
+}
+.gray{
+    background-color: gray;
+}
+.mint_green{
+    background-color: mediumseagreen;
+}
+.olive_green{
+    background-color: olivedrab;
+}
+p{ text-align: center;
+    font-size: 30px;
+}

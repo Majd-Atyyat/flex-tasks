@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    align-items:stretch;
+    height:600px;
+    width: 55%;
+    border: 10px solid goldenrod;
+    align-content:stretch;
+    
+}
+.box{
+    height:600px;
+    width:100px;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: purple;
+}
+.grey{
+    background-color: grey;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
+.pink{
+    background-color: pink;
+}
+.red{
+    background-color: red;
+}
+.brown{
+    background-color: brown;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-weight: 900px;
+}
